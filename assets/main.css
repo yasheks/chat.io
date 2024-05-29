@@ -49,17 +49,17 @@
     color: beige;
     border-radius: 5px;
 }
-.messagers{
+.messages{
     list-style: none;
     margin: 0;
     padding: 0;
 }
-.messagers>li{
+.messages>li{
     padding: 10px;
 }
-.messagers>li>span{
+.messages>li>span{
     font-weight: 500;
 }
-.messagers > li:nth-child(odd){
+.messages > li:nth-child(odd){
     background: #efefef;
 }
